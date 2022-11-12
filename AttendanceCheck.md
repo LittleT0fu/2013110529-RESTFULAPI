@@ -1,1 +1,1 @@
->> Kraiwit (Got) : Chapter 0 - Course Introduction & Set up Enviroment
+>> Kraiwit Chinchanathavorn (Got) : Chapter 0 - Course Introduction & Set up Enviroment
