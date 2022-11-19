@@ -8,10 +8,6 @@ const user = {
         postcode : 70110
     }
 }
-
-// let {name , nickname , hobby , address , province:{province , postcode}} = user
-// console.log(postcode);
-
 const DestrucObj = ({name , nickname , hobby , address , province:{province , postcode}})=>{
     return `"My nickname is ${nickname}, My hobby is ${hobby} and my postcode is ${postcode} `
 
