@@ -40,4 +40,11 @@ const showData2 = ()=> {
 
 const {name , salary ,address:{postcode}} = user
 
-console.log(name);
+// console.log(name);
+
+
+const drinks = ["cofee", "Coke" , "Greentea"]
+
+for (const b of drinks){
+    console.log(b)
+}
